@@ -1,1 +1,1 @@
-Learing glsl
+Learning glsl
